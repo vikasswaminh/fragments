@@ -1,4 +1,4 @@
-![E2B Fragments Preview Light](/readme-assets/fragments-light.png#gh-light-mode-only)
+12![E2B Fragments Preview Light](/readme-assets/fragments-light.png#gh-light-mode-only)
 ![E2B Fragments Preview Dark](/readme-assets/fragments-dark.png#gh-dark-mode-only)
 
 # Fragments by E2B
